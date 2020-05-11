@@ -1,0 +1,14 @@
+{
+  "name": "perf",
+  "version": "1.0.0",
+  "description": "Script for executing JS files and measure perfomance. It also can draw charts in terminal.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Topolov Sergey",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
+}
