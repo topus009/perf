@@ -29,9 +29,9 @@ const end = ({
   }
 
   if(inSeconds) {
-    endTime = timeInMS;
-  } else if(inMiliseconds) {
     endTime = timeInS;
+  } else if(inMiliseconds) {
+    endTime = timeInMS;
   }
 
   if(toFixedCount) {
