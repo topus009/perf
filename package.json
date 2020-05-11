@@ -1,5 +1,5 @@
 {
-  "name": "perf",
+  "name": "@topus009/perf",
   "version": "1.0.0",
   "description": "Script for executing JS files and measure perfomance. It also can draw charts in terminal.",
   "main": "index.js",
