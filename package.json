@@ -7,8 +7,12 @@
     "start": "node ./index.js"
   },
   "author": "Topolov Sergey",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^4.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/topus009/perf/issues",
+    "email": "sj_89@mail.ru"
   }
 }
